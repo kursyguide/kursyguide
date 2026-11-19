@@ -1,4 +1,4 @@
-"# [Kursy Guide](https://kursyguide.com/ru/)
+# [Kursy Guide](https://kursyguide.com/ru/)
 
 Kursy Guide: независимый каталог и подборки онлайн-курсов для бизнеса и работы. Языки каталога и подборок: украинский, русский для Украины и английский.
 
@@ -16,4 +16,4 @@ Kursy Guide: независимый каталог и подборки онла�
 - [Курсы Google Ads](https://kursyguide.com/ru/topics/google-ads/)
 - [Курсы Power BI](https://kursyguide.com/ru/topics/power-bi/)
 - [Курсы моушн-дизайна](https://kursyguide.com/ru/topics/motion-design/)
-- [Курсы Meta Ads](https://kursyguide.com/ru/topics/meta-ads/)"
+- [Курсы Meta Ads](https://kursyguide.com/ru/topics/meta-ads/)
